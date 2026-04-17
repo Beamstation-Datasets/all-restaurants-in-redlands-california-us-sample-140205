@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f021dd90-e319-45cd-9260-8e2d0ef835d1",
+  "id_short": 140205,
+  "published_at": "2026-04-17T07:59:59Z",
+  "repo_name": "all-restaurants-in-redlands-california-us-sample-140205",
+  "sample_asset_name": "beamstation_140205_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/140205/beamstation_140205_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 22,
+  "sample_sha256": "df54665c1966f1252657a150c1f3e076e52eb057492e7fa629f1917a88e2c4b9",
+  "sample_size_bytes": 97683,
+  "total_records": 225
+}
