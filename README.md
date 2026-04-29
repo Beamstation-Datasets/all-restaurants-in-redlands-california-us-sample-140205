@@ -1,6 +1,6 @@
 # All Restaurants in Redlands, California, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `140205` |
 | Location | Redlands |
 | Category | Restaurants |
-| Full dataset size | 215 records |
-| Free sample size | 21 records (9.77%) |
-| Last export | 2026-04-21T20:24:59.162067+00:00 |
+| Full dataset size | 197 records |
+| Free sample size | 19 records (9.64%) |
+| Last export | 2026-04-28T22:04:49.745796+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-redlands-california-us-sample-140205/releases/download/sample-latest/beamstation_140205_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
